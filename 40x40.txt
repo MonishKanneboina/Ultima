@@ -1,0 +1,72 @@
+40 40
+11 2 100 2 8.5
+R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R R
+R R R B B G G G G G G G G G G B B R R R G G G G G G G G G G G G G G G B B R R R 
+R R G G G G G G G G G G G G G G G G G G G G G G G G G G G G G R G G G G G B R R 
+R G G B G G G G G G G G G G G G B G B G G G G G G G G B B B B B G G B G G G R R 
+W G G G G B G G G G G G G G G G G G G B G G G G G G G B S S S B G G G G G G B R 
+W G G G B G G G G G G G G G G G G G G G G G G G G G G B S T S B G G T G T G G R 
+W G G G G G G G G G S F F F S G G G G G G G G G G G G B F P F B G G G G G G G R 
+W G G G G G S F G F F L L L F S G G G G G G G G G G G B T P T B G T G T G T G R 
+W G G G G G S L L L L L L L L F G G G G G G G G G G G G G P G G G G G G G G G R 
+W G G G G G S L P P P P L P P P P P P P P P P P P P P P P P G G G G T G T G G R 
+W G G G G G S L P L L L L L L S G G G G G G G G G G G G G G G G G G G G G G G R 
+W G G G G G S L P L S L L L S F G G G G G G G G G G G G G G G G G G G G G G G R 
+W W G G G G F S P S F F F F F G G G G G G G G G G G G G G G G G G G G G G G G R 
+W W G G G G G F P F G G G G G G G G G G G G G G G G G B G G G G G G G G G G G R 
+W W G G G G G G P G G G G G G G G G G G G W W W G G G G G G G B G G G G G G G R 
+W W G G G G G G P G G G G G G G G G G G W W W W W G G G G G G G G G G G G G G R 
+W W W G G G G S P S G G G G G G G G G W W W W W W W G G G G G G G G G G G G G R 
+W W W W W W W S P S W W W W W W W W W W W W W W W W G G G G G G G G G G G G G R 
+W W W W W W W S P S W W W W W W W W W W W W W W W W W S S S S S S S G G G G G R 
+W W G G G G G F P F B B B B B B B B W W W W W W W W W S C C C C C S G G G G G R 
+B G G G G G G G P P P P P P P P P P P P W W W W W W W S C P P C C S F F F F F F 
+B G B G G G G G P G G G G G G G G G G P P P P W W W W S P P P P C S G G G G G R 
+B G G G G G G G P G B G G G G G G G G G G G P G G W W S P P P P P S G G G G G R 
+B G G G G G G G P G G G G G G G G G G G G G P G G G W S P P P P P S G G G G G R 
+B G G G G B G B P B G G G G G G G G G G G G P G G G W F P F F F F F G G G G G R 
+B G G G G G B P P P B G G G G G G G G G G G P B G G W B P B G G G G G G G G G R 
+B G G B G G B P B P B G G G G G G G G G G G P P P P P P P G G G G G G G G G G R 
+B G G G G G B P P P B G G G G G G G G G G G P B G G W B P G G G G G G G G G G R 
+B G G G G G G B P B G G G G G G G G G G G G P G G G W G P P P P P P G G G G G R 
+B G G G G G G G P G G G G G G G G G G G G G P G G G W G G G G G G P G G G G G R 
+B G G G G G B B P G G G G G G G B B B B G G P G G G W G G G G G G P G G G G G R 
+B G G G G G B B P G G G G G G G B P P P P P P G G G W G G G G S F P F S G G G R 
+B G G G G G G G P G G G G G G G B P B B G G G G G G W G G G G S P P P S G G G R 
+B G G B W W G G P P G G G G G G B P B G G G G B G G W G G G G S P P P S G G G R 
+B G G W W W G G G P B G G G G G G P G G G G G G G G W G G G G S P P P S G G G R 
+B G G W W G G G G P P P G G G G G P G G B G G G G G W G G G G F F F F F G G G R 
+B B G G G G G G G B G P G G G G G P G G G G G G G G W W G G G G G G G G G G G W 
+B B G G B G G G B G B P P P P P P P G G G G G G G W W W W W G G G G G G G G W W 
+B B B G G G G G G G G G G G G G G G G G G G G G W W W W W W W W W W W W W W W W 
+B B B B B B B B B B B B B B B B B B B B B B B W W W W W W W W W W W W W W W W W 
+
+BT  32   5   20    3    600  AGGRO   -1
+BT  34   5   20    3    600  AGGRO   -1
+BT  38  21    8    3    600  AGGRO   -1
+BT  38  20    8    3    600  AGGRO   -1
+BT  17  10    8    1    200  AGGRO   -1
+BT  24  17    8    1    200  AGGRO   -1
+BT   6  15    8    1    200  AGGRO   -1
+BT   5  32    8    1    200  AGGRO   -1
+
+TO  20  32   30    5    800  RANDOM  -1
+
+SK  33   7   20    3    600  STILL    7
+TH  38   17  100  15    600  AGGRO   -1
+SK  32   6   20    3    600  AGGRO   -1
+SK  33   6   20    3    600  AGGRO   -1
+SK  34   6   20    3    600  AGGRO   -1
+SK  32   7   20    3    600  AGGRO   -1
+SK  34   7   20    3    600  AGGRO   -1
+GK  33   5   60   10   1300  AGGRO   -1
+
+SK  30  19   20    3    600  STILL    7
+SK  32  17   20    3    600  STILL    7
+
+ZB   3  17   16    5   1000  RANDOM   4
+ZB   4  18   16    5   1000  RANDOM   4
+ZB  34  33   16    5   1000  RANDOM   4
+ZB  36  32   16    5   1000  RANDOM   4
+ZB  37  34   16    5   1000  RANDOM   4
+GK  38  22   60   10   1300  RANDOM   4
